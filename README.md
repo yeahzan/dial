@@ -2,7 +2,7 @@ dial
 ====
 
 CSS3转盘效果
-YeahZan JAN 2013
+YeahZan FEB 2013
 
 Copyright (C) 2013 Yeahzan.com. All Rights Reserved.
 
